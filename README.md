@@ -1,5 +1,4 @@
 Orçamentos de Campanha de Eleições Legislativas [2005-2015]
-
 ===================
 
 Orçamentos de Campanha para as Legislativas de acordo com dados do Tribunal Constitucional referentes aos anos de 2005 a 2015. Para informação mais pormenorizada consultar:
