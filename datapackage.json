@@ -1,0 +1,51 @@
+{
+  "resources": [
+    {
+      "name": "eleicoes-legislativas_orcamentos",
+      "path": "data/eleicoes-legislativas_orcamentos.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 2398,
+      "schema": {
+        "fields": [
+          {
+            "name": "ano",
+            "type": "integer",
+            "description": "Ano de Eleição"
+          },
+          {
+            "name": "partido_coligacao",
+            "type": "string",
+            "description": "Sigla do Partido ou Coligação"
+          },
+          {
+            "name": "total_real_receitas",
+            "type": "number",
+            "description": "Valor total de receitas"
+          },
+          {
+            "name": "total_real_despesas",
+            "type": "number",
+            "description": "Valor total de despesas"
+          },
+          {
+            "name": "total_prev_receitas",
+            "type": "number",
+            "description": "Valor total de receitas previstas"
+          },
+          {
+            "name": "total_prev_despesas",
+            "type": "number",
+            "description": "Valor total de despesas previstas"
+          }
+        ]
+      }
+    }
+  ],
+  "name": "eleicoes-legislativas_orcamentos",
+  "title": "Orçamentos de Campanhas de Eleições Legislativas",
+  "description": "",
+  "homepage": "",
+  "version": "0.1.0",
+  "license": "ODC-PDDL-1.0"
+}
